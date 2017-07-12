@@ -82,3 +82,18 @@ For more information, please contact me at 323-868-7832 or hanleiwa@usc.edu
 Hanlei Wang
 Jul/11/2017
 
+(T_T)
+(T_T)
+(T_T)
+OH SHIT! I MISUNDERSTOOD THE SYSTEM REQUIREMENT.IT REQUIRES TO GET ANOMALY PURCHASES WHEN THE AMOUNT IS BIGGER THAN MEAN+3*SD OF THE LAST T PURCHASES IN THE USER'S DTH DEGREE NETWORK. No time left for me to modify my code. Really sorry, my apology.
+(T_T)
+(T_T)
+(T_T)
+Anyway, if you still want to talk to me and know more about my passion about data science, please contact me.
+
+
+
+
+
+
+
