@@ -58,8 +58,8 @@ I used JSON to parse the input files. Please download and include the java-json.
 If you put files in a specific location when you compile and run, please change the corresponding parameters in auto.sh.
 
 Run the program:
-I created a shell script file auto.sh. Simply run the file can get the output file flagged_purchases.json.
-If you want to see the Map version of a specific user's social network, please add user ID at the end of 'java' line in auto.sh and run the program again. Like this:
+I created a shell script file run.sh. Simply run the file can get the output file flagged_purchases.json.
+If you want to see the Map version of a specific user's social network, please add user ID at the end of 'java' line in run.sh and run the program again. Like this:
 java -cp java-json.jar:. Detector "batch_log.json" "stream_log.json" "flagged_purchases.json" 3714
 Here, 3714 is the user ID. The printout will show a Map, whose keys are the dimensions(1 to D), values are all friends that has 'key' dimenstion from user 3714.
 Please also change parameters in the 'java' line to change test data files.
