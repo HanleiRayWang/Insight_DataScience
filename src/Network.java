@@ -112,14 +112,6 @@ public class Network implements Iterable<String> {
 	
 	
 	
-//	public Tree<User> getFriend(String id){
-//		
-//	}
-	
-	
-	
-	
-	
 	/**
      * Returns an iterator that can traverse the nodes in the graph.
      */
