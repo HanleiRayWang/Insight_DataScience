@@ -10,9 +10,7 @@ import java.util.Set;
 public class Network implements Iterable<String> {
 	
 	/* A map containing all users and edges between users 
-	 * representing the relationship (friend or not)
-	 * A list containing all users id
-	 * A list containing all users*/
+	 * representing the relationship (friend or not)*/
 	private final Map<String, Set<String>> graph;
 	
 	/* A map containing all users.
